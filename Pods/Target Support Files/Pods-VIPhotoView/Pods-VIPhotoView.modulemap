@@ -1,0 +1,6 @@
+framework module VIPhotoView {
+  umbrella header "Pods-VIPhotoView-umbrella.h"
+
+  export *
+  module * { export * }
+}

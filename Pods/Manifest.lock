@@ -1,0 +1,10 @@
+PODS:
+  - VIPhotoView (0.1)
+
+DEPENDENCIES:
+  - VIPhotoView (~> 0.1)
+
+SPEC CHECKSUMS:
+  VIPhotoView: bdc0cf8ddadda754b451869bd3a919e8eb5c11ab
+
+COCOAPODS: 0.36.3
